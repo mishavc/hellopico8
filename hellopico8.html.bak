@@ -5,9 +5,18 @@
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<img src="images/Assignment_01_01.gif" alt="This is an animated gif image, but it does not move"/>
-
+<h1>Assignment 1</h1>
+<p>This is a pretty bare bones summary of the assignment, basically it's just showing competence with the platform.<br><br>
+First, I demonstrate that I can load a cart from the Lexaloffle BBS.</p>
+<img src="images/Assignment_01_01.gif" alt="This is an animated image of the Pico-8 console wherein the Pico-8 cart Farm Panic is loaded from the Lexaloffle BBS. The cart is then Run and an image of a Bear in a sun hat on a farm scene appears."/>
+<p>Then, I demonstrate that I managed to find a Pico-8 cart that doesn't have sprites. And consequently, I copy pasted the code into a new cart and ran it.</p>
+<img src="images/Assignment_01_02.gif" alt="This is an animated image of the Pico-8 console wherein the code for the cart And Alls is Well is copy pasted into the code segment of a new cart. The cart is Run and an image of a circular rainbow appears and animates."/>
+</br>
+<img src="images/Assignment_01_03.gif" alt="This is an animated image of the Pico-8 console wherein a print command saying Hello Misha is entered. The cart is run and the text Hello Misha is displayed."/>
+</br>
+<img src="images/Assignment_01_04.gif" alt="This is an animated image of the Pico-8 console wherein the Splore command is entered and the Splore menus for New, Lucky Draw, Favourites, Jam, Search and Work in Progress are browsed."/>
+</br>
+<img src="images/Assignment_01_05.png" alt="This is an image of windows explorer showing the file system of Michelle Cormier indicating the file path for Pico-8."/>
+</br>
 </body>
 </html> 
